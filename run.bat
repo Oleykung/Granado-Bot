@@ -1,0 +1,6 @@
+@echo off
+echo กำลังติดตั้ง...
+pip install -r requirements.txt
+echo กำลังรันบอท...
+python bot.py
+pause
